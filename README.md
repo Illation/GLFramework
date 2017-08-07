@@ -1,6 +1,9 @@
 # GLFramework
 
-Work in progress framework using opengl to later use for personal projects
+**Work in this repository has been discontinued. The project lives on in a new repository, as it has been merged with my planet renderer:**
+https://github.com/Illation/ETEngine
+
+Framework using opengl to later use for personal projects
 
 ## Acknowledgments
 Currently used libraries: SDL2, GLM, DevIL, stb_image, GLAD and Assimp
